@@ -37,17 +37,16 @@ Hello, everyone! I am Rishabh Vaibhav. I am a passionate graduate engineer train
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhvaibhav&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="rishabhvaibhav" /> </p>
-
-
 
 #
 
 ### 📊 Stats
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhvaibhav&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="rishabhvaibhav" /> </p>
+
 ![RV's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabhvaibhav&show_icons=true&theme=gruvbox)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhvaibhav&show_icons=true&locale=en&layout=compact=true&theme=gruvbox" alt="rishabhvaibhav" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhvaibhav&=true&theme=gruvbox" alt="rishabhvaibhav" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhvaibhav&show_icons=true&locale=en&layout=compact=true&theme=gruvbox" alt="rishabhvaibhav" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhvaibhav&=true&theme=gruvbox" alt="rishabhvaibhav" /></p>
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
