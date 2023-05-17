@@ -51,7 +51,7 @@ Hello, everyone! I am Rishabh Vaibhav. I am a passionate graduate engineer train
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhvaibhav&show_icons=true&locale=en&layout=compact=true&theme=gruvbox" alt="rishabhvaibhav" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhvaibhav&show_icons=true&locale=en=true&theme=gruvbox" alt="rishabhvaibhav" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhvaibhav&show_icons=true&locale=en" alt="rishabhvaibhav" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhvaibhav&=true&theme=gruvbox" alt="rishabhvaibhav" /></p>
 
