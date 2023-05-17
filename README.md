@@ -43,10 +43,11 @@ Hello, everyone! I am Rishabh Vaibhav. I am a passionate graduate engineer train
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/twitter/twitter-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain-wordmark.svg" /><br><br><br>
 
-<img alt="rishabhvaibhav"    src="https://github-readme-stats.vercel.app/api?username=rishabhvaibhav&show_icons=true&theme=gruvbox" /><br>
-![Rishabh Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabhvaibhav&show_icons=true&theme=radical)
+<!-- <img alt="rishabhvaibhav"    src="https://github-readme-stats.vercel.app/api?username=rishabhvaibhav&show_icons=true&theme=gruvbox" /><br> -->
+
 
 <h3>📊 Stats:</h3>
+![Rishabh Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabhvaibhav&show_icons=true&theme=radical)
 
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhvaibhav&=true&theme=radical" alt="rishabhvaibhav" /></p>
 
