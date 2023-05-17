@@ -47,18 +47,18 @@ Hello, everyone! I am Rishabh Vaibhav. I am a passionate graduate engineer train
 
 
 #
-
+<br />
 ### 📊 Stats
 
 
 ![RV's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabhvaibhav&show_icons=true&theme=gruvbox)
-
+<br />
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhvaibhav&=true&theme=gruvbox" alt="rishabhvaibhav" /></p>
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
-<BR>
+<br />
 <details>
  <summary><h3>👨‍💻 RV's Coding Journey</h3></summary>
    
