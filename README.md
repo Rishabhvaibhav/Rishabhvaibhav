@@ -51,8 +51,6 @@ Hello, everyone! I am Rishabh Vaibhav. I am a passionate graduate engineer train
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhvaibhav&=true&theme=radical" alt="rishabhvaibhav" /></p>
 
 
-![Rishabh Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabhvaibhav&show_icons=true&locale=en&theme=radical")
-
 
 
 
