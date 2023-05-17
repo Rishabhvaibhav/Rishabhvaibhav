@@ -39,8 +39,8 @@ Hello, everyone! I am Rishabh Vaibhav. I am a passionate graduate engineer train
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /><br>
 
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhvaibhav&show_icons=true&locale=en&layout=compact=true&theme=gruvbox" alt="rishabhvaibhav" /></p>
+<br />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhvaibhav&show_icons=true&locale=en&layout=compact=true&theme=gruvbox" alt="rishabhvaibhav" />
 <br />
 
 
