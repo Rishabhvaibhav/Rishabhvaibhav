@@ -37,17 +37,7 @@ Hello, everyone! I am Rishabh Vaibhav. I am a passionate graduate engineer train
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-<h1 align="center">Hi 👋, I'm Rishabh Vaibhav</h1>
-<h3 align="center">A passionate Data Analyst</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhvaibhav&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhvaibhav" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy=true&theme=gruvbox"><img src="https://github-profile-trophy.vercel.app/?username=rishabhvaibhav" alt="rishabhvaibhav" /></a> </p>
-
-
-
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhvaibhav&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="rishabhvaibhav" /> </p>
 
 
 
