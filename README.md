@@ -6,7 +6,6 @@ Hello, everyone! I am Rishabh Vaibhav. I am a passionate graduate engineer train
 
 
 ---
-![Profile View]
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhvaibhav&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="rishabhvaibhav" /> </p>
 
 
@@ -39,10 +38,13 @@ Hello, everyone! I am Rishabh Vaibhav. I am a passionate graduate engineer train
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhvaibhav&show_icons=true&locale=en&layout=compact=true&theme=gruvbox" alt="rishabhvaibhav" /></p>
 <br />
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhvaibhav&show_icons=true&locale=en&layout=compact=true&theme=gruvbox" alt="rishabhvaibhav" /></p>
+
 
 #
 
