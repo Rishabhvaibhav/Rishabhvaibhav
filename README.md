@@ -39,20 +39,19 @@ Hello, everyone! I am Rishabh Vaibhav. I am a passionate graduate engineer train
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /><br>
 
-<br />
+<br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhvaibhav&show_icons=true&locale=en&layout=compact=true&theme=gruvbox" alt="rishabhvaibhav" />
-<br />
+<br>
 
 
 
 
 #
-<br />
 ### 📊 Stats
 
 
 ![RV's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabhvaibhav&show_icons=true&theme=gruvbox)
-<br />
+<br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhvaibhav&=true&theme=gruvbox" alt="rishabhvaibhav" /></p>
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
