@@ -6,6 +6,10 @@ Hello, everyone! I am Rishabh Vaibhav. I am a passionate graduate engineer train
 
 
 ---
+![Profile View]
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhvaibhav&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="rishabhvaibhav" /> </p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rishabh-vaibhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh-vaibhav" height="30" width="40" /></a>
@@ -38,14 +42,15 @@ Hello, everyone! I am Rishabh Vaibhav. I am a passionate graduate engineer train
 <br />
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhvaibhav&show_icons=true&locale=en&layout=compact=true&theme=gruvbox" alt="rishabhvaibhav" /></p>
+
 #
 
 ### 📊 Stats
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhvaibhav&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="rishabhvaibhav" /> </p>
 
 ![RV's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabhvaibhav&show_icons=true&theme=gruvbox)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhvaibhav&show_icons=true&locale=en&layout=compact=true&theme=gruvbox" alt="rishabhvaibhav" /></p>
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhvaibhav&=true&theme=gruvbox" alt="rishabhvaibhav" /></p>
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
