@@ -58,8 +58,8 @@
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhvaibhav&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    <a href="https://github.com/rishabhvaibhav/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=rishabhvaibhav&show_icons=true&theme=radical" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=rishabhvaibhav&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
@@ -76,6 +76,7 @@
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=rishabhvaibhav&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 
@@ -84,6 +85,6 @@
  <summary><h3>👨‍💻 RV's Coding Journey</h3></summary>
     in process ............
 
-    
+
 [website]: https://altenrv.com
 
