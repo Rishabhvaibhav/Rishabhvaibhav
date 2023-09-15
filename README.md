@@ -1,11 +1,30 @@
 
 
-#🏄‍♂️ Rishabh Vaibhav
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Rishabh+Vaibhav!;&center=true&size=30">
+  </a>
+</h1>
 
-**`Digital Craftsman (Developer)`**
 
-Hello, everyone! I am Rishabh Vaibhav. I am a passionate graduate engineer trainee at Alten India, specializing in data analysis. With a deep curiosity for uncovering insights hidden within vast amounts of data, I thrive on the challenges and possibilities that this field presents.
+<br>
+<p align="center">
+  Hi, I'm Rishabh Vaibhav, Python Developer/Coder 🥷,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳
+  <br>
+  <br>
+  🎓 Completed my Bachelor degree from <a href="https://hithaldia.ac.in/"> HIT.</a>
+  <br>
+  💻 I love to learn new technologies and frameworks.
+  <br>
+  🧑‍💼 I’m currently working as Python / Djando developer at <a href="https://www.alten.com/"> ALTEN </a>
+  <br>
+</p>
 
+<div align="center"> 
+  <a href = "mailto:rishabhvaibhav7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rishabh-vaibhav" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhvaibhav&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="rishabhvaibhav" /> </p>
