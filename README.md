@@ -23,6 +23,7 @@
 <div align="center"> 
   <a href = "mailto:rishabhvaibhav7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rishabh-vaibhav" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://linkedin.com/in/rishabh-vaibhav" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" target = "_blank"</a>
  
 </div>
 
@@ -76,4 +77,25 @@
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=rishabhvaibhav&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
+
+
+
+
+<details>
+ <summary><h3>👨‍💻 RV's Coding Journey</h3></summary>
+   
+   
+   From the very beginning of my journey, I was captivated by the power of coding to unlock the potential of data. I embarked on this path by immersing myself in programming languages such as Python and R, equipping myself with the skills necessary for effective data manipulation and analysis. As I delved deeper, I discovered the art of transforming raw data into meaningful visualizations and utilizing statistical techniques to draw valuable conclusions.
+
+   Throughout my career, I have honed my expertise in various aspects of data analysis, including statistical analysis, machine learning, and predictive modeling. I have worked with diverse datasets, collaborated with cross-functional teams, and leveraged cutting-edge tools and libraries to deliver data-driven insights that fuel informed decision-making.
+
+   In addition to my technical skills, I pride myself on being a lifelong learner. I stay up to date with emerging technologies, attend industry conferences, and actively engage with online communities to continually expand my knowledge and keep pace with the ever-evolving field of data analysis.
+
+   As a data analyst, I am driven by a genuine passion for unraveling complex patterns, finding hidden correlations, and translating data into actionable recommendations. I am excited to contribute my skills, creativity, and analytical mindset to make a meaningful impact in leveraging data for business growth and innovation.
+
+   I am truly excited about the endless possibilities that lie ahead in the realm of data analysis. I believe that by combining my technical expertise, relentless curiosity, and dedication to excellence, I can help organizations unlock the true potential of their data.
+   
+   
+
+[website]: https://altenrv.com
 
