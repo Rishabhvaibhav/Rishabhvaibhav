@@ -30,7 +30,7 @@
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rishabhvaibhav&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="rishabhvaibhav" /> </p>
 
-
+<!--
 <h3 align="center">📞Connect with me:</h3>
 <p align="center">
 <a href="https://kaggle.com/rishabhvaibhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rishabhvaibhav" height="30" width="40" /></a>
@@ -38,9 +38,7 @@
 <a href="https://www.codechef.com/users/rishabhvaibhav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rishabhvaibhav" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rishabhvaibhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rishabhvaibhav" height="30" width="40" /></a>
 </p>
-
-<br>
-
+-->
 <hr>
 <h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
 <br>
@@ -51,7 +49,7 @@
 
   </a>
 </p>
-<br><br><br><br>
+<br>
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -66,11 +64,27 @@
   <h3>💻 GitHub Profile Stats</h3>
 
   <!-- https://github.com/rishabhvaibhav/github-readme-stats -->
-
+<!--
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=rishabhvaibhav&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+ 
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rishabhvaibhav&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
-
+-->
+<div style="display: flex; flex-direction: row;">
+  <!-- Left side for GitHub Stats -->
+  <div style="flex: 1; margin-right: 20px;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=rishabhvaibhav&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+    </a>
+  </div>
+  
+  <!-- Right side for Top Languages -->
+  <div style="flex: 1;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rishabhvaibhav&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+    </a>
+  </div>
+</div>
 
   
   <!-- https://github.com/rishabhvaibhav/github-readme-activity-graph -->
