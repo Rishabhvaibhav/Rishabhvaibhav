@@ -1,102 +1,73 @@
 
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Rishabh+Vaibhav!;&center=true&size=30">
-  </a>
-</h1>
+#🏄‍♂️ Rishabh Vaibhav
 
+**`Digital Craftsman (Developer)`**
 
-<br>
-<p align="center">
-  Hi, I'm Rishabh Vaibhav, Python Developer/Coder 👨‍💻,  Learner 💻 &  gamer 🦸‍♂️ from India 🇮🇳
-  <br>
-  <br>
-  🎓 Completed my Bachelor degree from <a href="https://hithaldia.ac.in/"> HIT.</a>
-  <br>
-  💻 I love to learn new technologies and frameworks.
-  <br>
-  🧑‍💼 I’m currently working as Python / Djando developer at <a href="https://www.alten.com/"> ALTEN </a>
-  <br>
-</p>
+Hello, everyone! I am Rishabh Vaibhav. I am a passionate graduate engineer trainee at Alten India, specializing in data analysis. With a deep curiosity for uncovering insights hidden within vast amounts of data, I thrive on the challenges and possibilities that this field presents.
 
-<div align="center"> 
-  <a href = "mailto:rishabhvaibhav7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rishabh-vaibhav" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://linkedin.com/in/rishabh-vaibhav" target="blank"><img
- 
-</div>
 
 ---
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rishabhvaibhav&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="rishabhvaibhav" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhvaibhav&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="rishabhvaibhav" /> </p>
 
-<!--
-<h3 align="center">📞Connect with me:</h3>
-<p align="center">
+
+<h3 align="left">📞Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rishabh-vaibhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh-vaibhav" height="30" width="40" /></a>
 <a href="https://kaggle.com/rishabhvaibhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rishabhvaibhav" height="30" width="40" /></a>
 <a href="https://instagram.com/rishabh_vaibhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishabh_vaibhav" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rishabhvaibhav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rishabhvaibhav" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rishabhvaibhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rishabhvaibhav" height="30" width="40" /></a>
 </p>
--->
-<hr>
-<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
+
 <br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,python,javascript,css,wordpress" /><br>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,django,html,linux,vscode,heroku,figma" />
-
-  </a>
-</p>
-<br>
+<h3 align="left">🧰 Languages and Tools</h3>
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-  <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=rishabhvaibhav&theme=monokai-metallian&hide_border=true"/>
-    </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-  </p>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain-wordmark.svg"/>
+<img align="left" alt="Anaconda" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/anaconda/anaconda-original-wordmark.svg" />
+<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jetbrains/jetbrains-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kaggle/kaggle-original-wordmark.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original-wordmark.svg" />
+<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original-wordmark.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tomcat/tomcat-original-wordmark.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/twitter/twitter-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain-wordmark.svg" /><br><br><br>
 
-  <h3>💻 GitHub Profile Stats</h3>
+<!-- <img alt="rishabhvaibhav"    src="https://github-readme-stats.vercel.app/api?username=rishabhvaibhav&show_icons=true&theme=gruvbox" /><br> -->
 
-  <!-- https://github.com/rishabhvaibhav/github-readme-stats -->
-<!--
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=rishabhvaibhav&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
- 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rishabhvaibhav&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  <br/>
--->
-<div style="display: flex; flex-direction: row;">
-  <!-- Left side for GitHub Stats -->
-  <div style="flex: 1; margin-right: 20px;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=rishabhvaibhav&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-    </a>
-  </div>
-  
-  <!-- Right side for Top Languages -->
-  <div style="flex: 1;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rishabhvaibhav&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
-    </a>
-  </div>
-</div>
 
-  
-  <!-- https://github.com/rishabhvaibhav/github-readme-activity-graph -->
+<h3>📊 Stats:</h3>
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=rishabhvaibhav&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+![Rishabh Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabhvaibhav&show_icons=true)
 
-<br><br>
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhvaibhav&=true" alt="rishabhvaibhav" /></p>
+
+
+
+
 
 <details>
  <summary><h3>👨‍💻 RV's Coding Journey</h3></summary>
-in process...........
+   
+   
+   From the very beginning of my journey, I was captivated by the power of coding to unlock the potential of data. I embarked on this path by immersing myself in programming languages such as Python and R, equipping myself with the skills necessary for effective data manipulation and analysis. As I delved deeper, I discovered the art of transforming raw data into meaningful visualizations and utilizing statistical techniques to draw valuable conclusions.
 
+   Throughout my career, I have honed my expertise in various aspects of data analysis, including statistical analysis, machine learning, and predictive modeling. I have worked with diverse datasets, collaborated with cross-functional teams, and leveraged cutting-edge tools and libraries to deliver data-driven insights that fuel informed decision-making.
+
+   In addition to my technical skills, I pride myself on being a lifelong learner. I stay up to date with emerging technologies, attend industry conferences, and actively engage with online communities to continually expand my knowledge and keep pace with the ever-evolving field of data analysis.
+
+   As a data analyst, I am driven by a genuine passion for unraveling complex patterns, finding hidden correlations, and translating data into actionable recommendations. I am excited to contribute my skills, creativity, and analytical mindset to make a meaningful impact in leveraging data for business growth and innovation.
+
+   I am truly excited about the endless possibilities that lie ahead in the realm of data analysis. I believe that by combining my technical expertise, relentless curiosity, and dedication to excellence, I can help organizations unlock the true potential of their data.
+   
+   
 
 [website]: https://altenrv.com
 
