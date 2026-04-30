@@ -4,9 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rishabh%20Vaibhav&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Data%20Engineer%20%7C%20Python%20%7C%20PySpark%20%7C%20LLM%20Pipelines&descAlignY=55&descSize=18"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Building+Data+Pipelines+at+Scale+🚀;1TB%2B+Monthly+Data+Processed+📊;LLM-Powered+ETL+Workflows+🤖;Web+Scraping+%7C+Cloud+%7C+Data+Engineering" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Building+Data+Pipelines+at+Scale;1TB%2B+Monthly+Data+Processed;LLM-Powered+ETL+Workflows;Web+Scraping+%7C+Cloud+%7C+Data+Engineering;Python+%7C+PySpark+%7C+LangChain" alt="Typing SVG" />
 
 <br/>
 
