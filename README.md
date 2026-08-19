@@ -30,7 +30,11 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=rishabhvaibhav&label=Profile+Views&color=00D9FF&style=flat-square" alt="Profile Views"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=rishabhvaibhav&label=Profile+Views&color=00D9FF&style=flat-square" alt="Profile Views"/> -->
+<!-- Profile Views -->
+<a href="https://github.com/rishabhvaibhav">
+  <img src="https://komarev.com/ghpvc/?username=rishabhvaibhav&label=PROFILE%20VIEWS&color=ff6b6b&style=for-the-badge&logo=github" alt="Profile Views"/>
+</a>
 
 </div>
 
@@ -263,7 +267,7 @@ class RishabhVaibhav:
 <br/><br/>
 
 <!-- Actual GitHub Contribution Calendar -->
-<img src="https://ghchart.rshah.org/00d9ff/rishabhvaibhav" alt="GitHub Contribution Calendar" width="95%"/>
+<img src="https://ghchart.rshah.org/ff6b6b/rishabhvaibhav" alt="GitHub Contribution Calendar" width="95%"/>
 
 </div>
 
