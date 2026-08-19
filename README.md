@@ -249,24 +249,7 @@ class RishabhVaibhav:
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<a href="https://github.com/rishabhvaibhav">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rishabhvaibhav&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhvaibhav&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/rishabhvaibhav">
-  <img src="https://streak-stats.demolab.com/?user=rishabhvaibhav&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</a>
-
-</div>
-
----
 
 ## 🔥 Contribution Graph
 
@@ -282,14 +265,6 @@ class RishabhVaibhav:
 <!-- Actual GitHub Contribution Calendar -->
 <img src="https://ghchart.rshah.org/00d9ff/rishabhvaibhav" alt="GitHub Contribution Calendar" width="95%"/>
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rishabhvaibhav&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
 </div>
 
 ---
